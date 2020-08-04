@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Cabin', 'Arial', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-size: 26px;
+    text-rendering: optimizeLegibility;
+    font-stretch: expanded;
+}
+
+.row {
+    max-width: 1140px;
+    margin: 0 25%; 
+    
+}
+
+.logo-animate {
+   margin-top: 14%;
+    font-size: 100%;
+    font-stretch: expanded;
+    font-weight: 600;
+    
+}
+
+h1 {
+    font-size: 450%;
+     margin-top: 17%;
+    margin-bottom: 16%
+}
+
+.hero-img {
+    background-image: url(img/Hero.jpg);
+    height: 98vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.large {
+font-size: 150%;
+font-weight: 600;
+margin-top: 15%;
+margin-bottom: 7.5%;
+}
+
+p {
+    margin-bottom: 10%;
+}
+
+.resume,
+.ig {
+    margin-bottom: 20%;
+    
+    color: #fff;
+    ;
+}
